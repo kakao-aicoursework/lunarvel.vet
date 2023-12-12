@@ -1,0 +1,38 @@
+###
+POST http://localhost:8000/callback
+Content-Type: application/json
+
+{
+  "intent": {
+    "id": "6n3ap0dop5rckewbdxa6swdb",
+    "name": "블록 이름"
+  },
+  "userRequest": {
+    "timezone": "Asia/Seoul",
+    "params": {
+      "ignoreMe": "true"
+    },
+    "block": {
+      "id": "6n3ap0dop5rckewbdxa6swdb",
+      "name": "블록 이름"
+    },
+    "utterance": "카카오 싱크란 무엇?",
+    "lang": null,
+    "user": {
+      "id": "583150",
+      "type": "accountId",
+      "properties": {}
+    }
+  },
+  "bot": {
+    "id": "6578029fd0e0694b9d22fb4c",
+    "name": "봇 이름"
+  },
+  "action": {
+    "name": "aodgp30bia",
+    "clientExtra": null,
+    "params": {},
+    "id": "knsjdwgvyp81n9ydaz305u9g",
+    "detailParams": {}
+  }
+}
