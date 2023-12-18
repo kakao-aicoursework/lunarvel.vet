@@ -1,0 +1,3 @@
+kakao_sync: Questions about kakao sync. This service syncs messages, photos, and videos from KakaoTalk between your mobile and PC.
+kakao_talkchannel: Questions about kakao channel. It's a brand marketing platform that facilitates communication between businesses and users.
+kakao_social: Questions about kakao social. This is kakao's social media service where users can share information and communicate with each other.
